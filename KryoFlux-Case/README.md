@@ -1,4 +1,4 @@
-KryoFlus Case
+KryoFlux Case
 =============
 
 Laser cutting files for an external housing for the KryoFlux universal floppy controller,
